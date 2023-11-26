@@ -16,7 +16,6 @@ export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
-  { name: "JS Mastery", icon: <CodeIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
@@ -34,11 +33,11 @@ export const categories = [
   { name: "Crypto", icon: <DeveloperModeIcon /> },
 ];
 
-export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
-export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
-export const demoVideoUrl = "/video/GDa8kZLNhJ4";
-export const demoChannelTitle = "JavaScript Mastery";
-export const demoVideoTitle =
-  "Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI";
+export const demoThumbnailUrl =
+  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Findustry%2Fservices%2Feducation%2Fscaler-launches-scaler-school-of-technology-a-four-year-residential-ug-program-in-computer-science%2Farticleshow%2F99109738.cms&psig=AOvVaw0WD2DzaJe80f2iZO07UqVG&ust=1701075876825000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCros2n4YIDFQAAAAAdAAAAABAJ";
+export const demoChannelUrl = "/channel/UCZMli3czZnd1uoc1ShTouQw";
+export const demoVideoUrl = "/video/5qap5aO4i9A";
+export const demoChannelTitle = "Srujan Dharma";
+export const demoVideoTitle = "Project Wheel - The evolution of Brain";
 export const demoProfilePicture =
-  "http://dergipark.org.tr/assets/app/images/buddy_sample.png";
+  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scaler.com%2Fschool-of-technology%2Fadmission%2F&psig=AOvVaw0WD2DzaJe80f2iZO07UqVG&ust=1701075876825000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCros2n4YIDFQAAAAAdAAAAABAR";
